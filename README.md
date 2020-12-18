@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+  - 📊 I’m interested in Data Science and Machine Learning
+  - 💼 [https://www.linkedin.com/in/vecano/](https://www.linkedin.com/in/vecano/)
+
+
 <!--
 **vecano/vecano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
